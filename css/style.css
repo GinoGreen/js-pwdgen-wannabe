@@ -1,0 +1,11 @@
+#password,
+#length {
+   padding: 100px 0;
+   text-align: center;
+}
+#password {
+   background-color: #DAB170;
+}
+#length {
+   background-color: #61AFEF;
+}
